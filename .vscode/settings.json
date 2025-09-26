@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "tarefa1.C": "cpp",
+        "leetCode.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
