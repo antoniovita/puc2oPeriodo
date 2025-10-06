@@ -1,0 +1,4 @@
+Matricula: 1234 Media aluno: 7.67
+Matricula: 2345 Media aluno: 6.00
+Matricula: 3456 Media aluno: 7.60
+Media da turma A: 7.09
