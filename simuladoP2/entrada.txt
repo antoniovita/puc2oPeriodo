@@ -1,0 +1,10 @@
+Lucas Almeida: 2411018 8.5 7.9 9.0
+Sofia Martins: 2410298 6.0 5.5 2.0
+Matheus Ferreira: 2322045 4.5 5.0 6.2
+Isabella Gomes: 2321046 7.0 1.8 4.3
+David Ribeiro: 2210120 -1.0 -1.0 -1.0
+Julia Carvalho: 2210007 9.8 9.5 10.0
+Bruno Mendes: 2112033 3.5 4.0 5.0
+Laura Barbosa: 2410903 1.5 2.0 -1.0
+Pedro Lima: 2301305 7.7 8.1 6.9
+Beatriz Costa: 2220188 5.0 -1.0 -1.0
